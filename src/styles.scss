@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+img,audio{
+   border-width: 2px;
+   border-color: black;
+   border-style: solid;
+}
+
+p,h5,span{
+   font-family: 'Indie Flower', cursive;
+}
+
+audio{
+   border-radius: 5px;
+}
